@@ -1,0 +1,24 @@
+body {
+  font-family: "Open Sans Condensed";
+  background-color: #e3fdfd;
+  font-size: 1.5em;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+h1 {
+    color: #66BFBF;
+    font-size: 2em;
+  
+}
+
+h2 {
+    color: #66BFBF;
+    font-size: 2em;
+}
