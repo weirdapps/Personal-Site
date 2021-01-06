@@ -1,7 +1,9 @@
+/****************TAG SELECTORS***************/
+
 body {
   font-family: "Open Sans Condensed";
-  background-color: #e3fdfd;
-  font-size: 1.5em;
+  background-color: #f3efe0;
+  font-size: 1.2em;
 }
 
 hr {
@@ -13,12 +15,36 @@ hr {
 }
 
 h1 {
-    color: #66BFBF;
-    font-size: 2em;
-  
+  color: #66bfbf;
+  font-size: 40px;
 }
 
 h2 {
-    color: #66BFBF;
-    font-size: 2em;
+  color: #66bfbf;
+  font-size: 32px;
+}
+
+h3 {
+  color: grey;
+  font-size: 28px;
+}
+
+p {
+  color: grey;
+  font-size: 24px;
+}
+
+/****************CLASS SELECTORS***************/
+/*you can have multiple instances of a class*/
+.profile-image {
+  height: 260px;
+  border-radius: 50%;
+}
+
+/****************ID SELECTORS***************/
+/*you can have one single instance of an id*/
+
+#myName {
+  color: #66bfbf;
+  font-size: 45px;
 }
